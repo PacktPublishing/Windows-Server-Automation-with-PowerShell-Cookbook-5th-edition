@@ -1,5 +1,5 @@
 # Windows Server Automation with PowerShell Cookbook 5th Edition
-This is the code repository for [Windows Server Automation with PowerShell Cookbook 5th Edition](Enter Amazon PaperBack link of this title), published by Packt.
+This is the code repository for [Windows Server Automation with PowerShell Cookbook 5th Edition](https://www.packtpub.com/product/windows-server-automation-with-powershell-cookbook-fifth-edition/9781804614235), published by Packt.
 
 **Powerful ways to automate, manage and administrate Windows Server 2022 using PowerShell 7.2**
 
@@ -37,31 +37,24 @@ This cookbook will help you gain command of PowerShell 7.2 to manage the core ro
 14. Managing Windows Update Services
 
 
-> If you feel this book is for you, get your [copy](https://www.amazon.in/Windows-Server-Automation-PowerShell-Cookbook-ebook/dp/B0B49YXVD6/ref=sr_1_1?crid=JSZB0NTZX1U9&keywords=Windows-Server-Automation-with-PowerShell-Cookbook-5th-edition&qid=1674634503&sprefix=windows-server-automation-with-powershell-cookbook-5th-edition%2Caps%2C179&sr=8-1) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
-
-
-### Following is what you need for this book: ###
-
-Enter lines of "What do you need for this book, may have pre-requisites, or check Epic for content"
-
-With the following software and hardware list you can run all code files present in the book (Chapter number mention here).
+> If you feel this book is for you, get your [copy](https://www.amazon.com/Windows-Server-Automation-PowerShell-Cookbook/dp/1804614238) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Software and Hardware List
 
 | Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
 | :---:  | :---: | :---: |:---: | :---: |
-| eg 1 | Name of the tool/software required  | It's download link if any   | Requirements   |  Requirements  |
+| 1-14 | Windows 11 Pro or Enterprise  | [Download](https://www.microsoft.com/software-download/windows11)   | Min 16GB of RAM or more preferred   |  Windows  |
 
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
-You can get more engaged on the discord server for more latest updates and discussions in the community at [https://packt.link/SecNet](https://packt.link/SecNet) 
+You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/SecNet) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
 
 _If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
-[https://packt.link/free-ebook/9781804614235](https://packt.link/free-ebook/9781804614235) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+[Free-Ebook](https://packt.link/free-ebook/9781804614235) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book at "https://packt.link/SlBcpn" <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [Graphics](https://packt.link/SlBcpn) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 ## Get to Know the Author
